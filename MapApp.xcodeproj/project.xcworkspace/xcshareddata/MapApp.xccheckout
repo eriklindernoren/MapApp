@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CC32884D-688B-49A6-8D74-5BD8780EEDBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MapApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>b79d09cb-0f9a-4ddb-a659-82b36d9f1405++3322</key>
+		<string>https://svn-und.ida.liu.se/courses/TDDD78/2014-1-Projekt/a-9</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MapApp/MapApp.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>b79d09cb-0f9a-4ddb-a659-82b36d9f1405++3322</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>b79d09cb-0f9a-4ddb-a659-82b36d9f1405++3322</key>
+		<string>https://svn-und.ida.liu.se/courses/TDDD78/2014-1-Projekt</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn-und.ida.liu.se/courses/TDDD78/2014-1-Projekt/a-9/MapApp/MapApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>b79d09cb-0f9a-4ddb-a659-82b36d9f1405++3322</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>b79d09cb-0f9a-4ddb-a659-82b36d9f1405++3322</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Programmering</string>
+		</dict>
+	</array>
+</dict>
+</plist>
